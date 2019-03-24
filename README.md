@@ -7,7 +7,7 @@ Continuando con nuestra mini serie de procesos batch hoy aprenderás a crear tar
 <b>https://youtu.be/8XFohnrtqIE</b><br>
 
 <br>
-<b><a href="https://goo.gl/v2Oej4">#VamosPorLos1000</a><b>
+<b><a href="https://goo.gl/v2Oej4" target="_blank">#VamosPorLos1000</a><b>
 <br>
 Facebook : https://goo.gl/xhoMZM<br>
 Twitter: https://goo.gl/YhHtCL<br>
